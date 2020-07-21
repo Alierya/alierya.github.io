@@ -645,3 +645,22 @@ Icon: https://alierya.github.io/repo/DebIcon.png
 Name: GPS Master Crack 2
 Sponsor: Acreson <342080124@qq.com>
 
+Package: github.io.alierya.ddhook2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: acreson.zq.ddzqzs
+Filename: debs/github.io.alierya.ddhook2_1.0_iphoneos-arm.deb
+Size: 81030
+MD5sum: e0533c207e5d5c2c0b9320349b48461f
+SHA1: f1d1d601dec8ae0f49d493994b70596ca5e0a1c1
+SHA256: e559d1cf48c3fdd07d915195ce8602d13294b845bfb69e5feef23f26c943996a
+Section: Tweaks
+Description: DingTalk assistant that can customize wifi, positioning, virtual photo remote clock, perfect support for A12/A13
+Author: Acreson <342080124@qq.com>
+Depiction: https://alierya.github.io/repo/depictions/github.io.alierya.ddhook2
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(VIP).png
+Name: DingTalk hook 2
+Sponsor: Acreson <342080124@qq.com>
+
