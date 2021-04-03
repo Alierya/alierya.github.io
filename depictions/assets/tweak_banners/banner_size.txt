@@ -1,1 +1,0 @@
-For a better spacing and title slot, banners should be 1920px X 1300px
