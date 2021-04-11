@@ -1,0 +1,170 @@
+Package: github.io.alierya.jailprotect
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: admin
+Depends: mobilesubstrate
+Filename: debs/github.io.alierya.jailprotect_0.0.1-2_iphoneos-arm.deb
+Size: 16156
+MD5sum: b8c5325023cc3a8188767733c28c5271
+SHA1: 9d59e73d8f8455da389e7d48f34f5d2d07e72643
+SHA256: 8f722a3ea5b10aa7f98132f974a31d28114d8dea4bc8e2d1161997402bbe735e
+Section: Tweaks
+Description: Bypass jailbreak detection
+Author: admin
+Depiction: https://alierya.github.io/depictions/github.io.alierya.jailprotect
+Icon: https://alierya.github.io/DebIcon.png
+Name: Jailprotect
+
+Package: github.io.alierya.MiYou
+Version: 3.0-6
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/github.io.alierya.MiYou_3.0-6_iphoneos-arm.deb
+Size: 3068156
+MD5sum: 0c3f1195e156a5dc4a4bc6b491f39dae
+SHA1: 1b688bfd4fe54118ae87a671132f75ad1285747f
+SHA256: 9c52f8c1c7f217f0a9c8a07ce4d4439c6c98b986dc12152cde1db3e612eeeeb3
+Section: Tweaks
+Priority: optional
+Description: 微信助手-密友
+Author: Mao
+Depiction: https://alierya.github.io/depictions/github.io.alierya.MiYou
+Icon: https://alierya.github.io/DebIcon.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: github.io.alierya.sugarcane
+Version: 1.2-3+debug
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix, kasiimh1, baptistecdr
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/github.io.alierya.sugarcane_1.2-3+debug_iphoneos-arm.deb
+Size: 5660
+MD5sum: 86b1d220dceed193ea80b3c417441154
+SHA1: 4e878980d192b5072b2b50698426cff32d05a67c
+SHA256: e98c6692a0cdfb45f1db10ef4fe07ad2987c01b053c9feb03c68e52b72d41cab
+Section: Tweaks
+Description: Get percentages for the sliders in the Control Center on iOS 13
+Author: iOS Creatix, kasiimh1, baptistecdr
+Depiction: https://alierya.github.io/depictions/github.io.alierya.sugarcane
+Icon: https://alierya.github.io/DebIcon.png
+Name: SugarCane
+
+Package: github.io.alierya.localiapstore13
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: pxcex
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/github.io.alierya.localiapstore13_0.0.2_iphoneos-arm.deb
+Size: 2876
+MD5sum: c3aab2f3f7998fc73fe78f4ef018898c
+SHA1: 00fe45ef024a7284c75440962499613eed07d561
+SHA256: 40bedd65de4b24f1d3535ed6966347ab1b4d3e45bebc95e873d66e7daa11bd7f
+Section: Tweaks
+Description: Free In-App Purchases include app IOS 13 bypass Lock iCloud (bypass verify Passcode, Touch ID or Face ID).  No options to configure!
+Author: pxcex
+Depiction: https://alierya.github.io/depictions/github.io.alierya.localiapstore13
+Icon: https://alierya.github.io/DebIcon.png
+Name: LocalIAPStore13
+
+Package: github.io.alierya.storeswitcher2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 276
+Depends: firmware (>= 11), mobilesubstrate
+Filename: debs/github.io.alierya.storeswitcher2_1.0.3_iphoneos-arm.deb
+Size: 21320
+MD5sum: bfabcbb66029c44c2fc9153a2c468806
+SHA1: 853f7ad3ec294c4c855d9944c7727d6aebcbbc86
+SHA256: fd093c6b9a3d5f0493717981f4d72165018f5a391df6e77b7010d77a6db75771
+Section: Tweaks
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Author: subdiox
+Depiction: https://alierya.github.io/depictions/github.io.alierya.storeswitcher2
+Icon: https://alierya.github.io/DebIcon.png
+Name: StoreSwitcher 2
+
+Package: github.io.alierya.touchflow
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 820
+Pre-Depends: firmware (>= 11.0), mobilesubstrate | com.ex.libsubstitute
+Depends: com.creaturesurvive.libcscolorpicker
+Filename: debs/github.io.alierya.touchflow_1.0.6_iphoneos-arm.deb
+Size: 189540
+MD5sum: 5a15d25637025356f1888db89c3d5a2f
+SHA1: c4f4a074ae082a603c59c11c642cfda193a38305
+SHA256: 864ed7226c4291d8359ab3e89aefdbd3a69076d94d9a5020dec828391f140497
+Section: Tweaks
+Priority: optional
+Description: Show your touches on the screen
+ customizable tool to show your touches on the screen
+    allows for showing touch force on supported devices
+Tag: purpose::extension, compatible_min::iosiOS11
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://alierya.github.io/depictions/github.io.alierya.touchflow
+Icon: https://alierya.github.io/DebIcon.png
+Name: TouchFlow
+
+Package: github.io.alierya.reprovision
+Version: 0.6.2~release
+Architecture: iphoneos-arm
+Maintainer: Soh Satoh
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Filename: debs/github.io.alierya.reprovision_0.6.2~release_iphoneos-arm.deb
+Size: 14620120
+MD5sum: c871db63724cd5d781f6d9696753383a
+SHA1: dfaad7d088f9c39b7beac3edc23956be2ff5509a
+SHA256: d63737ccbb76a04a268818ed2482c3146d675b78035b837ce2adf6862f21170b
+Section: System
+Priority: optional
+Description: Re-sign applications on your device
+Author: Soh Satoh, Matt Clarke
+Depiction: https://alierya.github.io/depictions/github.io.alierya.reprovision
+Dev: Matt Clarke
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Name: ReProvision Reborn
+
+Package: github.io.alierya.fzye
+Version: 1.5.9-6
+Architecture: iphoneos-arm
+Maintainer: Jan
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/github.io.alierya.fzye_1.5.9-6_iphoneos-arm.deb
+Size: 1359732
+MD5sum: e176d3321e1ded36df2125a04cd81a4e
+SHA1: 36bc5f5cb4f12fc53688c8c895c1d3d14a6af52a
+SHA256: d3390a917c4fe133786f29780f604893b2154325183486ee225675aff31e5c22
+Section: System
+Priority: optional
+Description: 微信插件，可语音转发。
+Author: Jan
+Depiction: https://alierya.github.io/depictions/github.io.alierya.fzye
+Icon: https://alierya.github.io/DebIcon.png
+Name: WeChat
+
+Package: github.io.alierya.runaway
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: ned <appdb.ned@gmail.com>
+Installed-Size: 300
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: debs/github.io.alierya.runaway_0.0.4_iphoneos-arm.deb
+Size: 17896
+MD5sum: ccde807eb61a82c0bc1f921af0f71c6b
+SHA1: de5034c985fbd4ab20faa7a49b36bd92aac5dd02
+SHA256: eb36ecd542faf7b095619230f7fc100669452c343b9e606f45ac882663c180d3
+Section: Tweaks
+Description: Show network speed under time (iOS 13+, iPhone w/ notch only)
+Tag: compatible_min::ios13.3, compatible_max::ios13.3
+Author: ned <appdb.ned@gmail.com>
+Depiction: https://alierya.github.io/depictions/github.io.alierya.runaway
+Icon: https://alierya.github.io/DebIcon.png
+Name: Runaway
